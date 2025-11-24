@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141398138140",
+    "project_id": "clothing-caisse-manager",
+    "storage_bucket": "clothing-caisse-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141398138140:android:76b6799e2bd4e3c78e6ed9",
+        "android_client_info": {
+          "package_name": "com.xdev.csm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRYxvR14TLQopxzV_bdNcz7abuhwz_Jfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
